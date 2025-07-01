@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/marcin-piekarski/acme-adobe-commerce-site-creator/
+    type: markup
+
+folders:
+  /products/: /products/default
